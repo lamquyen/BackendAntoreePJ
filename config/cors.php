@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://imaginative-purpose-production.up.railway.app'],
+    'allowed_origins' => ['*',"https://lamquyen.github.io/FrontendAntoreePJ"],
 
     'allowed_origins_patterns' => [],
 
